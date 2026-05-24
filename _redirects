@@ -1,0 +1,21 @@
+# Cloudflare Pages redirects
+/laptop-repair-lucknow /index.html 200
+/laptop-repair-hazratganj-lucknow /pages/areas/hazratganj.html 301
+/laptop-repair-gomti-nagar-lucknow /pages/areas/gomti-nagar.html 301
+/laptop-repair-indira-nagar-lucknow /pages/areas/indira-nagar.html 301
+/laptop-repair-aminabad-lucknow /pages/areas/aminabad.html 301
+/laptop-repair-alambagh-lucknow /pages/areas/alambagh.html 301
+/laptop-repair-aliganj-lucknow /pages/areas/aliganj.html 301
+/laptop-repair-chowk-lucknow /pages/areas/chowk.html 301
+/laptop-repair-naka-hindola-lucknow /pages/areas/naka-hindola.html 301
+/dell-laptop-repair-lucknow /pages/brands/dell-laptop-repair-lucknow.html 301
+/hp-laptop-repair-lucknow /pages/brands/hp-laptop-repair-lucknow.html 301
+/lenovo-service-center-lucknow /pages/brands/lenovo-service-center-lucknow.html 301
+/asus-laptop-repair-lucknow /pages/brands/asus-laptop-repair-lucknow.html 301
+/acer-service-center-lucknow /pages/brands/acer-service-center-lucknow.html 301
+/laptop-screen-replacement-lucknow /pages/services/screen-replacement.html 301
+/laptop-motherboard-repair-lucknow /pages/services/motherboard-repair.html 301
+/data-recovery-lucknow /pages/services/data-recovery.html 301
+/ssd-upgrade-lucknow /pages/services/ssd-upgrade.html 301
+/macbook-repair-lucknow /pages/services/macbook-repair.html 301
+/chip-level-repair-lucknow /pages/services/chip-level-repair.html 301

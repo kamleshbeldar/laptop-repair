@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://authorisedlaptopservicelucknow.com/</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://authorisedlaptopservicelucknow.com/images/hero-repair.svg</image:loc>
+      <image:title>NexCore Laptop Service Lucknow – Professional Laptop Repair</image:title>
+      <image:geo_location>Latouche Road, Lucknow, Uttar Pradesh, India</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- Service Pages -->
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/services/laptop-repair.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/services/motherboard-repair.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/services/chip-level-repair.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/services/screen-replacement.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/services/data-recovery.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/services/ssd-upgrade.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/services/macbook-repair.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/services/keyboard-replacement.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Brand Pages -->
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/brands/index.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/brands/hp-laptop-repair-lucknow.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/brands/dell-laptop-repair-lucknow.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/brands/lenovo-service-center-lucknow.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/brands/asus-laptop-repair-lucknow.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/brands/acer-service-center-lucknow.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Area Pages -->
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/areas/index.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/areas/hazratganj.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/areas/gomti-nagar.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/areas/indira-nagar.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/areas/aminabad.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/areas/alambagh.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/areas/aliganj.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/areas/chowk.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/areas/naka-hindola.html</loc><lastmod>2025-05-01</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Blog Pages -->
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/blog/index.html</loc><lastmod>2025-05-01</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/blog/laptop-overheating-fix-lucknow.html</loc><lastmod>2025-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/blog/hp-laptop-not-turning-on.html</loc><lastmod>2025-02-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/blog/ssd-vs-hdd-upgrade-guide.html</loc><lastmod>2025-03-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/blog/data-recovery-cost-india.html</loc><lastmod>2025-03-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://authorisedlaptopservicelucknow.com/pages/blog/macbook-water-damage-repair.html</loc><lastmod>2025-04-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+</urlset>

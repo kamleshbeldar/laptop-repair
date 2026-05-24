@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 460" width="580" height="460">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#050A14"/>
+      <stop offset="100%" style="stop-color:#0A1628"/>
+    </linearGradient>
+    <filter id="glow2"><feGaussianBlur stdDeviation="4" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  
+  <rect width="580" height="460" fill="url(#bg2)" rx="20"/>
+  
+  <!-- Background pattern -->
+  <g stroke="#0066FF" stroke-width="0.4" opacity="0.06">
+    <line x1="0" y1="60" x2="580" y2="60"/>
+    <line x1="0" y1="120" x2="580" y2="120"/>
+    <line x1="0" y1="180" x2="580" y2="180"/>
+    <line x1="0" y1="240" x2="580" y2="240"/>
+    <line x1="0" y1="300" x2="580" y2="300"/>
+    <line x1="0" y1="360" x2="580" y2="360"/>
+    <line x1="0" y1="420" x2="580" y2="420"/>
+    <line x1="60" y1="0" x2="60" y2="460"/>
+    <line x1="120" y1="0" x2="120" y2="460"/>
+    <line x1="180" y1="0" x2="180" y2="460"/>
+    <line x1="240" y1="0" x2="240" y2="460"/>
+    <line x1="300" y1="0" x2="300" y2="460"/>
+    <line x1="360" y1="0" x2="360" y2="460"/>
+    <line x1="420" y1="0" x2="420" y2="460"/>
+    <line x1="480" y1="0" x2="480" y2="460"/>
+    <line x1="540" y1="0" x2="540" y2="460"/>
+  </g>
+  
+  <!-- Technician desk workspace -->
+  <!-- Desk surface -->
+  <rect x="40" y="300" width="500" height="20" rx="3" fill="#0D1F3C" stroke="#1A3A6A" stroke-width="1"/>
+  
+  <!-- Laptop on desk (open, being repaired) -->
+  <rect x="100" y="160" width="320" height="140" rx="10" fill="#0A1628" stroke="#1A3A6A" stroke-width="2"/>
+  <!-- Screen -->
+  <rect x="110" y="168" width="300" height="124" rx="6" fill="#050A14"/>
+  <rect x="114" y="172" width="292" height="116" rx="4" fill="#071830"/>
+  
+  <!-- Code on screen -->
+  <text x="124" y="192" fill="#00D4FF" font-size="9" font-family="monospace" opacity="0.8">$ sudo diagnostics --full-scan</text>
+  <text x="124" y="206" fill="#00E676" font-size="9" font-family="monospace" opacity="0.7">[OK] Motherboard: Healthy</text>
+  <text x="124" y="220" fill="#FFB300" font-size="9" font-family="monospace" opacity="0.7">[WARN] GPU Core: 87°C</text>
+  <text x="124" y="234" fill="#00E676" font-size="9" font-family="monospace" opacity="0.7">[OK] RAM: 16GB Detected</text>
+  <text x="124" y="248" fill="#00D4FF" font-size="9" font-family="monospace" opacity="0.7">[SCAN] Running chip test...</text>
+  <rect x="124" y="258" width="180" height="6" rx="3" fill="#0D2A50"/>
+  <rect x="124" y="258" width="120" height="6" rx="3" fill="#0066FF">
+    <animate attributeName="width" from="0" to="180" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="124" y="276" fill="#4A6A8A" font-size="9" font-family="monospace" opacity="0.6">67% complete...</text>
+  
+  <!-- Laptop keyboard -->
+  <rect x="100" y="300" width="320" height="6" rx="2" fill="#0D1F3C" stroke="#1A3A6A" stroke-width="1"/>
+  
+  <!-- Tools on desk -->
+  <!-- Screwdriver -->
+  <line x1="460" y1="220" x2="480" y2="295" stroke="#4A6A8A" stroke-width="4" stroke-linecap="round"/>
+  <rect x="454" y="212" width="12" height="20" rx="3" fill="#1A3A6A"/>
+  
+  <!-- Magnifying glass / microscope icon -->
+  <circle cx="500" cy="250" r="20" fill="none" stroke="#0066FF" stroke-width="2" opacity="0.6"/>
+  <circle cx="500" cy="250" r="14" fill="rgba(0,102,255,0.05)" stroke="#0044CC" stroke-width="1"/>
+  <line x1="514" y1="264" x2="524" y2="278" stroke="#0066FF" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Small chips on desk -->
+  <rect x="80" y="270" width="16" height="12" rx="2" fill="#0D2A50" stroke="#0066FF" stroke-width="1"/>
+  <rect x="50" y="268" width="16" height="12" rx="2" fill="#0D2A50" stroke="#00D4FF" stroke-width="1"/>
+  
+  <!-- Trust badges floating -->
+  <rect x="30" y="40" width="140" height="45" rx="8" fill="rgba(0,102,255,0.1)" stroke="rgba(0,212,255,0.3)" stroke-width="1"/>
+  <text x="100" y="60" text-anchor="middle" fill="#00D4FF" font-size="11" font-weight="bold">✅ 10+ Years</text>
+  <text x="100" y="76" text-anchor="middle" fill="#4A8AAA" font-size="9">Expert Engineers</text>
+  
+  <rect x="410" y="40" width="140" height="45" rx="8" fill="rgba(0,102,255,0.1)" stroke="rgba(0,212,255,0.3)" stroke-width="1"/>
+  <text x="480" y="60" text-anchor="middle" fill="#00E676" font-size="11" font-weight="bold">⭐ 4.9/5</text>
+  <text x="480" y="76" text-anchor="middle" fill="#4A8AAA" font-size="9">320+ Reviews</text>
+  
+  <rect x="220" y="330" width="140" height="45" rx="8" fill="rgba(0,102,255,0.1)" stroke="rgba(0,212,255,0.3)" stroke-width="1"/>
+  <text x="290" y="350" text-anchor="middle" fill="#00D4FF" font-size="11" font-weight="bold">🔬 Chip Level</text>
+  <text x="290" y="366" text-anchor="middle" fill="#4A8AAA" font-size="9">BGA Repair Expert</text>
+
+  <!-- Location pin -->
+  <text x="220" y="420" text-anchor="middle" fill="#4A6A8A" font-size="10" font-family="sans-serif">📍 Latouche Road, Lucknow – 226018</text>
+  <text x="220" y="438" text-anchor="middle" fill="#2A4A6A" font-size="9" font-family="sans-serif">Lat: 26.839916 | Lng: 80.924990</text>
+</svg>
